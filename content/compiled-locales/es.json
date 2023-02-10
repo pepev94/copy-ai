@@ -1,0 +1,74 @@
+{
+  "erase": [
+    {
+      "type": 0,
+      "value": "Borrar"
+    }
+  ],
+  "foodType": [
+    {
+      "type": 0,
+      "value": "Tipo de Comida"
+    }
+  ],
+  "generateReciepie": [
+    {
+      "type": 0,
+      "value": "¡Crear Receta!"
+    }
+  ],
+  "personCount": [
+    {
+      "type": 0,
+      "value": "Numero de personas"
+    }
+  ],
+  "recipieDetails": [
+    {
+      "type": 0,
+      "value": "Detalles de la receta"
+    }
+  ],
+  "recipieDetailsAlergies": [
+    {
+      "type": 0,
+      "value": "Ingredientes a omitir"
+    }
+  ],
+  "recipieDetailsIngredients": [
+    {
+      "type": 0,
+      "value": "Ingredientes Principales de la receta"
+    }
+  ],
+  "subtitle": [
+    {
+      "type": 0,
+      "value": "Crea tus propias recetas con la ayuda de la Inteligencia Artificial"
+    }
+  ],
+  "targetMacros": [
+    {
+      "type": 0,
+      "value": "Quieres contar Macros?"
+    }
+  ],
+  "targetMacrosCarbs": [
+    {
+      "type": 0,
+      "value": "Gramos de Carbs"
+    }
+  ],
+  "targetMacrosProtein": [
+    {
+      "type": 0,
+      "value": "Gramos de Proteina"
+    }
+  ],
+  "title": [
+    {
+      "type": 0,
+      "value": "Recetas hechas a la medida"
+    }
+  ]
+}
