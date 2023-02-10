@@ -28,9 +28,9 @@ const getPromt = (body: BodyGetOpenAiResult) => {
   const { toneType, copyToEdit, profession, selectedLanguage } = body;
   switch (selectedLanguage) {
     case LanguagesEnum.es:
-      return `Contesta en español: imagina que escribes para ${profession}, corrige la ortografía, redacción y estilo del siguiente texto. Usa un tono ${toneType}: ${copyToEdit}`;
+      return `Contesta en español: imagina que escribes para ${profession}, parafrasea el siguiente texto, corrige la ortografía y redacción. Usa un tono ${toneType}: ${copyToEdit}`;
     case LanguagesEnum.en:
-      return `Imagine you are writing ${profession}, correct spelling, grammar y style on the next text. Use the following tone ${toneType}: ${copyToEdit}`;
+      return `Imagine that you are writing for ${profession},Paraphrase the following text, correct the spelling and grammar, and use a ${toneType}: ${copyToEdit}`;
   }
 };
 //
